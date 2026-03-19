@@ -8,6 +8,7 @@ iii) Display the video by resizing the window
 iv) Rotate and display the video
 
 ## Software Used
+
 Anaconda - Python 3.7
 ## Algorithm
 ### Step 1:
